@@ -29,8 +29,8 @@ a:hover {
 
 .section1 {
     height: 600px;
-    background-color: #1F2937;
-    color: #F9FAF8;  
+    background-color: #609ce1;
+    color: #133863;  
 }
 
 .navbar {
@@ -97,7 +97,7 @@ a:hover {
 
 .section3 {
     background-color: e1ecf9;
-    color: #1F2937;
+    color: #609ce1;
     display: flex;
     flex-direction: column;
     align-items: center;
